@@ -1,4 +1,4 @@
-# Olá, Eu Sou [David Santos] 👋
+# Olá, Eu Sou David Santos 👋
 
 ## Desenvolvedor de Software com 8+ anos de experiência
 
